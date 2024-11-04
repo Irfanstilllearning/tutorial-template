@@ -43,3 +43,8 @@ Contents
 
    usage
    api
+
+.. toctree::
+
+   usage
+   api
