@@ -19,4 +19,7 @@ Contents
 .. toctree::
 
    usage
-   api //
+   api
+   test
+   test1
+   test2
